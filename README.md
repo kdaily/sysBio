@@ -1,5 +1,7 @@
 # sysBio
 
+[![Build Status](https://travis-ci.org/kdaily/sysBio.svg?branch=master)](https://travis-ci.org/kdaily/sysBio)
+
 _sysBio_ is an open source package for modeling and simulation of biological systems. It provides ability to convert reactions into ordinary differential equations (ODEs) and ability to solve them via numerical integration  or stochastic simulation. 
 Right now, _sysBio_ wiki page is the main source of documentation for the sysBio project. Also, see the [vignettes](vignettes) folder for examples.
 
